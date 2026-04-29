@@ -17,7 +17,7 @@
     <h3 align=right > Это моя любимая песенка</h3>
     <p align=left> <font face="Comic sans ms">
 
-    <p align=centre>в лесу родилась <image src="елка.jpg"> <!-- выравнивание текста типо align там стороны еще можно margin можно padding  --></image><i>елочка</i><br> в лесу она росла.
+    <p align=centre>в лесу родилась <image src="елка.png"> <!-- выравнивание текста типо align там стороны еще можно margin можно padding  --></image><i>елочка</i><br> в лесу она росла.
         <font face="Courier new">
     <u>зимой и летом стройная </u> <br><font color="green">зеленая
     </font> была.
